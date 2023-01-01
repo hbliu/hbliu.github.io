@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hongbo Liu"
-  avatar           : "images/profile.png"
+  avatar           : "https://github.com/hbliu/hbliu.github.io/blob/master/images/profile.png"
   bio              : "Computational Biology Scientist"
   location         : "Philadelphia"
   employer         : "University of Pennsylvania"
