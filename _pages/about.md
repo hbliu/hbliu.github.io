@@ -30,7 +30,6 @@ Tissue-specific and disease-critical epigenetic regulatory elements (Prior resea
 * Leveraging these bioinformatic tools and large-scale epigenome data, I identified tissue-specific epigenetic regulatory elements, including DNA methylation, histone modifications, super-enhancers, and long non-coding RNAs, and explored their roles in mammalian development and human diseases (Liu et al. 2016 [NAR](https://academic.oup.com/nar/article/44/1/75/2499653) | Liu et al. 2014 [Database](https://academic.oup.com/database/article/doi/10.1093/database/bat084/2633757) | Liu et al. 2013 [Sci. Rep.](https://www.nature.com/articles/srep02576) | Xu, Liu et al. 2019 [Cell Death & Disease](https://www.nature.com/articles/s41419-019-2137-5) | Xiong,…, Liu et al. 2017 [NAR](https://academic.oup.com/nar/article/45/D1/D888/2605746) | Wei,…, Liu et al. 2016 [NAR](https://academic.oup.com/nar/article/44/D1/D172/2503054) | Lv, Liu et al. 2013 [NAR](https://academic.oup.com/nar/article/41/22/10044/2438380) | Lv, Liu et al. 2012 [NAR](https://academic.oup.com/nar/article/40/D1/D1030/2903287) | Zhang, Liu et al. 2011 [NAR](https://academic.oup.com/nar/article/39/9/e58/1254752) | Zhang, Lv, Liu et al. 2010 [NAR](https://academic.oup.com/nar/article/38/suppl_1/D149/3112313)). 
 
 
-<!-- 
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
@@ -54,4 +53,3 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
- -->
