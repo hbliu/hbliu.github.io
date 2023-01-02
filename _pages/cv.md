@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-For the full list of academic achievements, please download my [CV](files/Curriculum_Vitae_HongboLIU.pdf).
+For the full list of academic achievements, please download my [CV](../files/Curriculum_Vitae_HongboLIU.pdf).
 
 Education and Training
 ======
-* Postdoc Fellow in Regulatory Genomics of Kidney Disease @ [Susztak Lab](https://www.med.upenn.edu/susztaklab/), University of Pennsylvania, 2018
-* Postdoc Fellow in Epigenomics of Cancer @ [Shen Lab](https://shenlab.vai.org/), Van Andel Institute, 2016
-* Ph.D in Biomedical Engineering (Developmental Biology and Epigenomics) @ [Wu Lab](http://life.hit.edu.cn/2021/0820/c6171a259101/page.htm), Harbin Institute of Technology, 2015
-* M.S. in Biomedical Engineering (Bioinformatics and Epigenomics) @ [Zhang Lab](http://life.hit.edu.cn/2021/0820/c6171a259107/page.htm), Harbin Medical University, 2010
+* Postdoc Fellow in Regulatory Genomics of Kidney Disease @ [Susztak Lab](https://www.med.upenn.edu/susztaklab/){:target="_blank"}, University of Pennsylvania, 2018
+* Postdoc Fellow in Epigenomics of Cancer @ [Shen Lab](https://shenlab.vai.org/){:target="_blank"}, Van Andel Institute, 2016
+* Ph.D in Biomedical Engineering (Developmental Biology and Epigenomics) @ [Wu Lab](http://life.hit.edu.cn/2021/0820/c6171a259101/page.htm){:target="_blank"}, Harbin Institute of Technology, 2015
+* M.S. in Biomedical Engineering (Bioinformatics and Epigenomics) @ [Zhang Lab](http://life.hit.edu.cn/2021/0820/c6171a259107/page.htm){:target="_blank"}, Harbin Medical University, 2010
 * B.S. in Information and Computing Science, School of Mathematical Sciences, Qufu Normal University, 2007
 
 Work experience
