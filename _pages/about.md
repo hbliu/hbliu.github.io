@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hongbo Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a postdoctoral fellow in [Dr. Katalin Susztak’s laboratory](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
+Since 2007, my research has mainly focused on the genomics and epigenomics of complex human diseases by developing scalable machine-learning methods and integrating multimodal genomic and epigenomic data. A central objective of my study is to understand how genetic variation contributes to epigenetic dynamics and chromatin assembly, which further regulate disease causal genes, by integrating Genome-wide association studies (GWAS) with transcriptomic and epigenomic analyses. These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
 
 A data-driven personal website
 ======
