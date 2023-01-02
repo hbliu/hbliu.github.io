@@ -15,8 +15,8 @@ Education and Training
 ======
 * Postdoc Fellow in Regulatory Genomics of Kidney Disease @ [Susztak Lab](https://www.med.upenn.edu/susztaklab/), University of Pennsylvania, 2018
 * Postdoc Fellow in Epigenomics of Cancer @ [Shen Lab](https://shenlab.vai.org/), Van Andel Institute, 2016
-* Ph.D in Biomedical Engineering (Developmental Biology and Epigenomics) @ [Wu Lab](http://life.hit.edu.cn/2021/0820/c6171a259101/page.htm), Harbin Institute of Technology, 2015
-* M.S. in Biomedical Engineering (Bioinformatics and Epigenomics) @ [Zhang Lab](http://life.hit.edu.cn/2021/0820/c6171a259107/page.htm), Harbin Medical University, 2010
+* Ph.D in Biomedical Engineering (Developmental Biology) @ [Wu Lab](http://life.hit.edu.cn/2021/0820/c6171a259101/page.htm), Harbin Institute of Technology, 2015
+* M.S. in Biomedical Engineering (Bioinformatics) @ [Zhang Lab](http://life.hit.edu.cn/2021/0820/c6171a259107/page.htm), Harbin Medical University, 2010
 * B.S. in Information and Computing Science, School of Mathematical Sciences, Qufu Normal University, 2007
 
 Work experience
@@ -55,18 +55,27 @@ Selected Publications (#Contributed equally; &Corresponding author)
 For the full list of academic publications, check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=sM-dRkIAAAAJ&view_op=list_works&sortby=pubdate) profile.
 
 
-Talks
+Talks (Oral Presentation)
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* 10/07/2022  [MidAtlantic Bioinformatics Conference (2022)](https://www.midatlanticbioinformatics.org/), Philadelphia, PA
+* 08/08/2022  [International Conference on Intelligent Biology and Medicine (ICIBM)](https://icibm2022.iaibm.org/), Philadelphia, PA
+* 05/19/2022  [Chinese Genomics Meet-up online](https://cgmonline.co/), CGM online
+* 04/25/2022  [Penn Genetics 2022 Global Scientific Symposium](https://genetics.med.upenn.edu/symposium/), Philadelphia, PA
   
-Teaching
+Teaching experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Computational Epigenetics, Instructor, Fall 2015, Spring 2016
+* Biomolecular Network Analysis, Instructor, Spring 2011, Spring 2012, Spring 2016
+* Combinatorics and Graph Theory, Instructor, Fall 2015
+* Database Principles and Applications, Instructor, Fall 2011
+* System Biology, Instructor, Fall 2010
+* Advanced Mathematics, Instructor, Fall 2010
+
+Mentoring experience
 ======
-* Currently signed in to 43 different slack teams
+* Shanshan Zhang (undergraduate), 2015 - 2016 (Now: Graduate student at Case Western Reserve University [Link](https://jinlabgenomics.com/People/))
+* Shipeng Shang (undergraduate), 2014 - 2015 (Now: Assistant professor at Qingdao University [Link](http://qdbms.qdu.edu.cn/info/1070/3717.htm))
+* Yunzhen Wei (undergraduate), 2013 - 2014 (Now: Assistant professor at Guangdong Medical University)
+* Rangfei Zhu (undergraduate), 2012 - 2014 (Now: CEO of Hangzhou Mugu Technology Co., Ltd [Link](http://sangerbox.com/index.html))
+
+
