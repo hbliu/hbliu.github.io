@@ -25,7 +25,12 @@ Research interests
 
 News
 ======
-<a class="twitter-timeline" href="https://twitter.com/Hongbo919Liu?ref_src=twsrc%5Etfw">Tweets by Hongbo919Liu</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<html>
+<body>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Team work as always. Many thanks to my great mentor <a href="https://twitter.com/KSusztak?ref_src=twsrc%5Etfw">@KSusztak</a> and talented collaborators!<br>Hope everyone enjoy reading it! <a href="https://t.co/jYxREFeDYe">https://t.co/jYxREFeDYe</a></p>&mdash; Hongbo Liu (@Hongbo919Liu) <a href="https://twitter.com/Hongbo919Liu/status/1537473379418066944?ref_src=twsrc%5Etfw">June 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</body>
+</html>
+
 
 <!-- 
 Site-wide configuration
