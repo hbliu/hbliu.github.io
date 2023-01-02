@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in [Susztak Lab](https://www.med.upenn.edu/susztaklab){:target="_blank"} in the Departments of Genetics and Medicine at the University of Pennsylvania.
+I am a postdoctoral fellow in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
 Since 2007, my research has mainly focused on the genomics and epigenomics of complex human diseases by developing scalable machine-learning methods and integrating multimodal genomic and epigenomic data. A central objective of my study is to understand how genetic variation contributes to epigenetic dynamics and chromatin assembly, which further regulate disease causal genes, by integrating Genome-wide association studies (GWAS) with transcriptomic and epigenomic analyses. These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
 
 Education and Training
 ======
-1. Postdoc Fellow @ [Susztak Lab](https://www.med.upenn.edu/susztaklab){:target="_blank"}, University of Pennsylvania 
-1. Postdoc Fellow @ [Shen Lab](https://shenlab.vai.org/){:target="_blank"}, Van Andel Institute
+1. Postdoc Fellow @ [Susztak Lab](https://www.med.upenn.edu/susztaklab), University of Pennsylvania 
+1. Postdoc Fellow @ [Shen Lab](https://shenlab.vai.org/), Van Andel Institute
 
 Work Experience
 ======
-1. Associate Professor @ [Harbin Medical University](https://www.hrbmu.edu.cn/english/){:target="_blank"}
-1. Assistant Professor @ [Harbin Medical University](https://www.hrbmu.edu.cn/english/){:target="_blank"}
+1. Associate Professor @ [Harbin Medical University](https://www.hrbmu.edu.cn/english/)
+1. Assistant Professor @ [Harbin Medical University](https://www.hrbmu.edu.cn/english/)
 
 
 <!-- 
