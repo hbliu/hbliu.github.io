@@ -8,6 +8,12 @@ author_profile: true
 
 You can also find an up-to-data list of publications on my [Google Scholar profile](https://scholar.google.com/citations?hl=en✉user=sM-dRkIAAAAJ✉view_op=list_works✉sortby=pubdate)
 
+<iframe
+  src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib&showSearch=True&theme=dividers"
+  frameborder="0"
+  style="width:100%; height:800;"
+></iframe>
+
 Selected Publications
 ======
 (#Contributed equally; ✉Corresponding author)
@@ -30,13 +36,3 @@ Selected Publications
 * Lv J#, Cui W#, **Liu H**#, He H, Xiu Y, Guo J, **Liu H**, Liu Q, Zeng T, Chen Y and Wu Q✉. (2013) Identification and characterization of long non-coding RNAs related to mouse embryonic brain development from available transcriptomic data. PloS One, 8, e71152.
 * Lv J#, **Liu H**#, Su J#, Wu X, Li B, Xiao X, Wang F, Wu Q✉️, Zhang Y✉️ (2012) DiseaseMeth: a human disease methylation database. Nucleic Acids Research, 40, D1030-1035. 
 * Zhang Y✉️#, Lv J#, **Liu H**#, Zhu J, Su J, Wu Q, Qi Y, Wang F and Li X✉️: (2010) HHMD: the human histone modification database. Nucleic Acids Research, 38, D149-154.
-
-
-Searchable List
-======
-<iframe
-  src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib&showSearch=True&theme=dividers"
-  frameborder="0"
-  style="width:100%; height:800;"
-></iframe>
-
