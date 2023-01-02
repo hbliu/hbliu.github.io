@@ -10,7 +10,8 @@ You can also find an up-to-data list of publications on my [Google Scholar profi
 Selected Publications
 ======
 (#Contributed equally; &Corresponding author)
-* **Liu H**, Doke T, Guo D, Sheng X, Ma Z, Park J, Vy H, Nadkarni G, Abedini A, Miao Z, Palmer M, Voight B, Li H, Brown C, Ritchie M, Shu Y and Susztak K&. (2022) Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease. Nature Genetics, 54(7):950–962.
+* **Liu H**, Doke T, Guo D, Sheng X, Ma Z, Park J, Vy H, Nadkarni G, Abedini A, Miao Z, Palmer M, Voight B, Li H, Brown C, Ritchie M, Shu Y and Susztak K&. (2022) [Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease](https://www.nature.com/articles/s41588-022-01097-w). Nature Genetics, 54(7):950–962.
+![NG2022](NG2022.png "NG2022")
 * Guan Y#, **Liu H**#, Ma Z, Li SY, Park J, Sheng X and Susztak K&. (2020) Dnmt3a and Dnmt3b-Decommissioned Fetal Enhancers are Linked to Kidney Disease. Journal of the American Society of Nephrology, 31(4), 765-782. 
 * Xu S#, **Liu H**#, Wan L#, Zhang W, Wang Q, Zhang S, Shang S, Zhang Y& and Pang D&. (2019) The MS-lincRNA landscape reveals a novel lincRNA BCLIN25 that contributes to tumorigenesis by upregulating ERBB2 expression via epigenetic modification and RNA–RNA interactions in breast cancer. Cell Death & Disease, 10(12), 920.
 * Xiong Y#, Wei Y#, Gu Y#, Zhang S, Lyu J, Zhang B, Chen C, Zhu J, Wang Y, **Liu H**&, Zhang Y& (2017) DiseaseMeth version 2.0: a major expansion and update of the human disease methylation database. Nucleic Acids Research, 45(D1):D888-895. 
@@ -26,6 +27,8 @@ Selected Publications
 * Zhang Y&#, Lv J#, **Liu H**#, Zhu J, Su J, Wu Q, Qi Y, Wang F and Li X&: (2010) HHMD: the human histone modification database. Nucleic Acids Research, 38, D149-154.
 
 
+All Publications by year
+======
 <iframe
   src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib"
   style="width:100%; height:100%;"
