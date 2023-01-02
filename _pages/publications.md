@@ -3,7 +3,10 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+
+<base target="_blank">
 ---
+
 
 You can also find an up-to-data list of publications on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=sM-dRkIAAAAJ&view_op=list_works&sortby=pubdate)
 
@@ -12,9 +15,10 @@ Selected Publications
 (#Contributed equally; &Corresponding author)
 * **Liu H**, Doke T, Guo D, Sheng X, Ma Z, Park J, Vy H, Nadkarni G, Abedini A, Miao Z, Palmer M, Voight B, Li H, Brown C, Ritchie M, Shu Y and Susztak K&. (2022) [Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease](https://www.nature.com/articles/s41588-022-01097-w). Nature Genetics, 54(7):950–962.
 [<img src="/images/pubfig/NG2022.png" width="600">](https://www.nature.com/articles/s41588-022-01097-w)
-* Guan Y#, **Liu H**#, Ma Z, Li SY, Park J, Sheng X and Susztak K&. (2020) Dnmt3a and Dnmt3b-Decommissioned Fetal Enhancers are Linked to Kidney Disease. Journal of the American Society of Nephrology, 31(4), 765-782. 
+* Guan Y#, **Liu H**#, Ma Z, Li SY, Park J, Sheng X and Susztak K&. (2020) [Dnmt3a and Dnmt3b-Decommissioned Fetal Enhancers are Linked to Kidney Disease](https://jasn.asnjournals.org/content/31/4/765). Journal of the American Society of Nephrology, 31(4), 765-782. 
 [<img src="/images/pubfig/JASN2020.jpg" width="600">](https://jasn.asnjournals.org/content/31/4/765)
-* Xu S#, **Liu H**#, Wan L#, Zhang W, Wang Q, Zhang S, Shang S, Zhang Y& and Pang D&. (2019) The MS-lincRNA landscape reveals a novel lincRNA BCLIN25 that contributes to tumorigenesis by upregulating ERBB2 expression via epigenetic modification and RNA–RNA interactions in breast cancer. Cell Death & Disease, 10(12), 920.
+* Xu S#, **Liu H**#, Wan L#, Zhang W, Wang Q, Zhang S, Shang S, Zhang Y& and Pang D&. (2019) [The MS-lincRNA landscape reveals a novel lincRNA BCLIN25 that contributes to tumorigenesis by upregulating ERBB2 expression via epigenetic modification and RNA–RNA interactions in breast cancer](https://www.nature.com/articles/s41419-019-2137-5). Cell Death & Disease, 10(12), 920.
+[<img src="/images/pubfig/JASN2020.jpg" width="600">](https://jasn.asnjournals.org/content/31/4/765)
 * Xiong Y#, Wei Y#, Gu Y#, Zhang S, Lyu J, Zhang B, Chen C, Zhu J, Wang Y, **Liu H**&, Zhang Y& (2017) DiseaseMeth version 2.0: a major expansion and update of the human disease methylation database. Nucleic Acids Research, 45(D1):D888-895. 
 * **Liu H**&#, Liu X#, Zhang S#, Lv J, Li S, Shang S, Jia S, Wei Y, Wang F, Su J, Wu Q, and Zhang Y& (2016) Systematic identification and annotation of human methylation marks based on bisulfite sequencing methylomes reveals distinct roles of cell-type-specific hypomethylation in regulation of cell identify genes. Nucleic Acids Research, 44(1):75-94.
 * Wei Y#, Zhang S#, Shang S#, Zhang B, Wang X, Li S, **Liu H**&, Zhang Y& (2016) SEA: a Super-Enhancer Archive. Nucleic Acids Research, 44(D1):D172-179. 
