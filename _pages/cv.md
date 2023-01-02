@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-For the full list of academic publications, see my [CV](files/Curriculum_Vitae_HongboLIU.pdf) or check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=sM-dRkIAAAAJ&view_op=list_works&sortby=pubdate) profile.
+For the full list of academic achievements, please download my [CV](files/Curriculum_Vitae_HongboLIU.pdf).
 
 Education and Training
 ======
@@ -51,7 +51,10 @@ Selected Publications (#Contributed equally; &Corresponding author)
 * Lv J#, **Liu H**#, Su J#, Wu X, Li B, Xiao X, Wang F, Wu Q&, Zhang Y& (2012) DiseaseMeth: a human disease methylation database. Nucleic Acids Research, 40, D1030-1035. 
 * Zhang Y&#, **Liu H**#, Lv J#, Xiao X, Zhu J, Liu X, Su J, Li X, Wu Q, Wang F and Cui Y (2011) QDMR: a quantitative method for identification of differentially methylated regions by entropy. Nucleic Acids Research, 39(9):e58.
 * Zhang Y&#, Lv J#, **Liu H**#, Zhu J, Su J, Wu Q, Qi Y, Wang F and Li X&: (2010) HHMD: the human histone modification database. Nucleic Acids Research, 38, D149-154.
-  
+
+For the full list of academic publications, check out my [Google Scholar](https://scholar.google.com/citations?hl=en&user=sM-dRkIAAAAJ&view_op=list_works&sortby=pubdate) profile.
+
+
 Talks
 ======
   <ul>{% for post in site.talks %}
