@@ -36,8 +36,9 @@ Research interests
 * Single cell Omics
 * Complex Human Diseases
 
-Selected Publications (#Contributed equally; &Corresponding author)
+Selected Publications
 ======
+(#Contributed equally; &Corresponding author)
 * **Liu H**, Doke T, Guo D, Sheng X, Ma Z, Park J, Vy H, Nadkarni G, Abedini A, Miao Z, Palmer M, Voight B, Li H, Brown C, Ritchie M, Shu Y and Susztak K&. (2022) Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease. Nature Genetics, 54(7):950–962.
 * Guan Y#, **Liu H**#, Ma Z, Li SY, Park J, Sheng X and Susztak K&. (2020) Dnmt3a and Dnmt3b-Decommissioned Fetal Enhancers are Linked to Kidney Disease. Journal of the American Society of Nephrology, 31(4), 765-782. 
 * Xu S#, **Liu H**#, Wan L#, Zhang W, Wang Q, Zhang S, Shang S, Zhang Y& and Pang D&. (2019) The MS-lincRNA landscape reveals a novel lincRNA BCLIN25 that contributes to tumorigenesis by upregulating ERBB2 expression via epigenetic modification and RNA–RNA interactions in breast cancer. Cell Death & Disease, 10(12), 920.
