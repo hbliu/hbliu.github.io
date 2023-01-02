@@ -31,13 +31,11 @@ Selected Publications
 * Zhang Y&#, Lv J#, **Liu H**#, Zhu J, Su J, Wu Q, Qi Y, Wang F and Li X&: (2010) HHMD: the human histone modification database. Nucleic Acids Research, 38, D149-154.
 
 
-All Publications by year
+Searchable List
 ======
 <iframe
-  src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib"
+  src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib&showSearch=True&theme=dividers"
   frameborder="0"
   style="width:100%; height:800;"
 ></iframe>
-
-<script src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib"></script> 
 
