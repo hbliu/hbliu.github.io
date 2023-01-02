@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hongbo Liu"
-  avatar           : "HongboLiu.png"   #"profile.png"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
