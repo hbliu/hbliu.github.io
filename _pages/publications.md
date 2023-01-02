@@ -19,6 +19,8 @@ Selected Publications
 [<img src="/images/pubfig/JASN2020.jpg" width="600" class="center">](https://jasn.asnjournals.org/content/31/4/765)
 * Xu S#, **Liu H**#, Wan L#, Zhang W, Wang Q, Zhang S, Shang S, Zhang Y✉️ and Pang D✉️ (2019) [The MS-lincRNA landscape reveals a novel lincRNA BCLIN25 that contributes to tumorigenesis by upregulating ERBB2 expression via epigenetic modification and RNA–RNA interactions in breast cancer](https://www.nature.com/articles/s41419-019-2137-5). Cell Death & Disease, 10(12), 920.
 [<img src="/images/pubfig/CDD2019.png" width="600" class="center">](https://www.nature.com/articles/s41419-019-2137-5)
+* Zhang Y✉️#, **Liu H**#, Lv J#, Xiao X, Zhu J, Liu X, Su J, Li X, Wu Q, Wang F and Cui Y (2011) [QDMR: a quantitative method for identification of differentially methylated regions by entropy](https://academic.oup.com/nar/article/39/9/e58/1254752). Nucleic Acids Research, 39(9):e58.
+[<img src="/images/pubfig/QDMR2010.png" width="600" class="center">](https://academic.oup.com/nar/article/39/9/e58/1254752)
 * Xiong Y#, Wei Y#, Gu Y#, Zhang S, Lyu J, Zhang B, Chen C, Zhu J, Wang Y, **Liu H**✉️, Zhang Y✉️ (2017) DiseaseMeth version 2.0: a major expansion and update of the human disease methylation database. Nucleic Acids Research, 45(D1):D888-895.
 * Wei Y#, Zhang S#, Shang S#, Zhang B, Wang X, Li S, **Liu H**✉️, Zhang Y✉️ (2016) SEA: a Super-Enhancer Archive. Nucleic Acids Research, 44(D1):D172-179. 
 * **Liu H**#, Zhu R#, Lv J#, He H, Yang L, Huang Z, Su J, Zhang Y, Yu S and Wu Q✉️. (2014) DevMouse, the mouse developmental methylome database and analysis tools. Database, 2014:bat084.
@@ -27,7 +29,6 @@ Selected Publications
 * Lv J#, **Liu H**#, Huang Z#, Su J, He H, Xiu Y, Zhang Y and Wu Q✉️ (2013) Long non-coding RNA identification over mouse brain development by integrative modeling of chromatin and genomic features. Nucleic Acids Research, 41, 10044-10061. 
 * Lv J#, Cui W#, **Liu H**#, He H, Xiu Y, Guo J, **Liu H**, Liu Q, Zeng T, Chen Y and Wu Q✉. (2013) Identification and characterization of long non-coding RNAs related to mouse embryonic brain development from available transcriptomic data. PloS One, 8, e71152.
 * Lv J#, **Liu H**#, Su J#, Wu X, Li B, Xiao X, Wang F, Wu Q✉️, Zhang Y✉️ (2012) DiseaseMeth: a human disease methylation database. Nucleic Acids Research, 40, D1030-1035. 
-* Zhang Y✉️#, **Liu H**#, Lv J#, Xiao X, Zhu J, Liu X, Su J, Li X, Wu Q, Wang F and Cui Y (2011) QDMR: a quantitative method for identification of differentially methylated regions by entropy. Nucleic Acids Research, 39(9):e58.
 * Zhang Y✉️#, Lv J#, **Liu H**#, Zhu J, Su J, Wu Q, Qi Y, Wang F and Li X✉️: (2010) HHMD: the human histone modification database. Nucleic Acids Research, 38, D149-154.
 
 
