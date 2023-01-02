@@ -11,12 +11,11 @@ redirect_from:
 I am a postdoctoral fellow in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
 Since 2007, my research has mainly focused on the genomics and epigenomics of complex human diseases by developing scalable machine-learning methods and integrating 
 multimodal genomic and epigenomic data. A central objective of my study is to understand the genetic basis and epigenetic regulation of complex human diseases, 
-by integrating Genome-wide association studies (GWAS) with transcriptomic and epigenomic analyses. 
+by integrating genome-wide association studies with transcriptomic and epigenomic analyses. 
 These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
 
-Research Experience
+Research
 ======
-
 Genetic architecture and epigenetic regulation of kidney disease (Postdoctoral research, 2018 - present)
 ------
 * I discovered that epigenome (DNA methylation) explains a larger fraction of heritability than gene expression by integrating large scale GWAS, eQTL and meQTL datasets. To further identify disease-causal genes, I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes, including <em>SLC47A1<em>, whose causal role was defined in knockout mice model and in human individuals carrying loss-of-function variants. (Liu et al., 2022 [Nature Genetics](https://www.nature.com/articles/s41588-022-01097-w); [Project page](https://susztaklab.com/GWAS/index.php); [Github](https://github.com/hbliu/Kidney_Epi_Pri)).
