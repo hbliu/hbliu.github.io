@@ -32,8 +32,9 @@ Work experience
 Research interests
 ======
 * Population Genetics
-* Epigenetic regulation
-* Single cell omics
+* Epigenetic Regulation
+* Single cell Omics
+* Complex Human Diseases
 
 Selected Publications (#Contributed equally; &Corresponding author)
 ======
