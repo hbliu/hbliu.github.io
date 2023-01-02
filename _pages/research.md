@@ -5,6 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 <base target="_blank">
+<style scoped>
+table {
+  font-size: 20px;
+}
+</style>
 
 Genetic architecture and epigenetic regulation of kidney disease
 ------
