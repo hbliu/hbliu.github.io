@@ -6,9 +6,9 @@ author_profile: true
 ---
 <base target="_blank">
 <style scoped>
-table {
+table, th, td {
   font-size: 18px;
-  border: none!important;
+  border: none;
 }
 </style>
 
