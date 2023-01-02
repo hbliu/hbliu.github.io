@@ -11,8 +11,6 @@ You can also find an up-to-data list of publications on my [Google Scholar profi
 <iframe
   src="https://bibbase.org/show?bib=https://bibbase.org/f/CXBcDH3rf8Ee4QN8p/Papers.bib&showSearch=True&theme=dividers"
   frameborder="0"
-  width="100%"
-  height="100%"
 ></iframe>
 
 <!-- 
