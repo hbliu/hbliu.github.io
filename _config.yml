@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Hongbo Liu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Postdoc Fellow @ UPENN"
+  location         : "Philadelphia"
+  employer         : "University of Pennsylvania"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/1Z1amD1q4whQ6/bibliography/public"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=sM-dRkIAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "hongbo.liu@pennmedicine.upenn.edu"
+  researchgate     : "https://www.researchgate.net/profile/Hongbo-Liu-8" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "hbliu"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/hongbo-liu-45975a2b/"
+  orcid            : "https://orcid.org/0000-0002-0733-8616"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "Hongbo919Liu"
   vine             :
   weibo            :
   xing             :
