@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hongbo Liu"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,19 +11,17 @@ redirect_from:
 I am a postdoctoral fellow in [Dr. Katalin Susztak’s laboratory](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
 Since 2007, my research has mainly focused on the genomics and epigenomics of complex human diseases by developing scalable machine-learning methods and integrating multimodal genomic and epigenomic data. A central objective of my study is to understand how genetic variation contributes to epigenetic dynamics and chromatin assembly, which further regulate disease causal genes, by integrating Genome-wide association studies (GWAS) with transcriptomic and epigenomic analyses. These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
 
-EDUCATION & TRAINING
+Education and Training
 ======
-2018 - Now,  Postdoctoral Fellow, Regulatory Genomics of Kidney Disease
-              Dr. Katalin Susztak’s Lab, Institute for Diabetes, Obesity and Metabolism
-              Perelman School of Medicine, University of Pennsylvania
-2016 - 2018, Postdoctoral Fellow, Epigenomics of Cancer
-              Dr. Hui Shen’s Lab, Center for Epigenetics, Van Andel Institute
-2012 - 2015, Ph.D., Biomedical Engineering (Developmental Biology and Epigenomics)
-              Dr. Qiong Wu’s Lab, School of Life Science and Technology, Harbin Institute of Technology
-2007 - 2010, MS, Biomedical Engineering (Bioinformatics and Epigenomics)
-              Dr. Yan Zhang’s Lab, College of Bioinformatics Science and Technology, Harbin Medical University
-2003 - 2007, BS, Information and Computing Science
-              School of Mathematical Sciences, Qufu Normal University
+1. Postdoc Fellow @ [Susztak Lab](https://www.med.upenn.edu/susztaklab), University of Pennsylvania 
+1. Postdoc Fellow @ [Shen Lab](https://shenlab.vai.org/), Van Andel Institute
+1. Ph.D. Alumni @ [Wu Lab](http://life.hit.edu.cn/2021/0820/c6171a259101/page.htm), Harbin Institute of Technology
+1. M.S. Alumni @ [Zhang Lab](http://life.hit.edu.cn/2021/0820/c6171a259107/page.htm), Harbin Medical University
+
+Work Experience
+======
+1. Associate Professor @ [Harbin Medical University](https://www.hrbmu.edu.cn/english/)
+1. Assistant Professor @ [Harbin Medical University](https://www.hrbmu.edu.cn/english/)
 
 
 <!-- 
