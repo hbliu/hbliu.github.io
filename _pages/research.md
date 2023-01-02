@@ -7,7 +7,10 @@ author_profile: true
 <base target="_blank">
 <style scoped>
 table {
-  font-size: 20px;
+  font-size: 18px;
+}
+td, th {
+   border: none!important;
 }
 </style>
 
