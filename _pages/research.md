@@ -15,7 +15,7 @@ table, th, td {
 Genetic architecture of complex human diseases
 ------
 
-| I discovered that epigenome (DNA methylation) explains a larger fraction of heritability than gene expression by integrating large scale GWAS, eQTL and meQTL datasets. To further identify disease-causal genes, I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes, including <em>SLC47A1<em>, whose causal role was defined in knockout mice model and in human individuals carrying loss-of-function variants. (Liu et al., 2022 [Nature Genetics](https://www.nature.com/articles/s41588-022-01097-w); [Project page](https://susztaklab.com/GWAS/index.php); [Github](https://github.com/hbliu/Kidney_Epi_Pri)). | [<img src="/images/pubfig/NG2022.png">](https://www.nature.com/articles/s41588-022-01097-w) |
+| In my latest study, I performed a comprehensive mapping of genetic architecture of kidney disease by applying large scale GWAS, eQTL and meQTL analysis. I discovered that epigenome (DNA methylation) explains a larger fraction of heritability than gene expression. To further identify disease-causal genes, I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes, including <em>SLC47A1<em>, whose causal role was defined in knockout mice model and in human individuals carrying loss-of-function variants. (Liu et al., 2022 [Nature Genetics](https://www.nature.com/articles/s41588-022-01097-w); [Project page](https://susztaklab.com/GWAS/index.php); [Github](https://github.com/hbliu/Kidney_Epi_Pri)). | [<img src="/images/pubfig/NG2022.png">](https://www.nature.com/articles/s41588-022-01097-w) |
 
 Cell type-specific epigenetic regulatory elements
 ------

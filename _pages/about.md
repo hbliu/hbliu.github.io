@@ -27,6 +27,53 @@ News
 ======
 <html>
 <body>
+
+<div id="site_content_isoform">
+<!--<p><h1 id="gene_title">Please Cite:</h1></p>-->
+<!--<div><p><strong>Human whole blood mQTL study (<a href="https://www.pnas.org/content/117/46/29013"><i>Sheng, X. et al.</i>, <i>Proceedings of the National Academy of Sciences</i>, 2020</a>):</strong></p>-->
+<!--<p><i>Sheng, X. et al.</i> Systematic integrated analysis of genetic and epigenetic variation in diabetic kidney disease. <i>Proceedings of the National Academy of Sciences</i> (2020).</p>-->
+<h1><font size="+2" color="black" id="title1"><strong>Publication related to the human kidney meQTL atlas:</strong></font></h1>
+<p>Please cite following paper:</p><hr />
+<p></p>
+<table id="susztakmenu">
+<tr>
+    <td valign="bottom">
+        <p><a href="https://www.nature.com/articles/s41588-022-01097-w" target="_blank"><strong>Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease.</strong></a></p>
+        <p><i>Hongbo Liu, Tomohito Doke, Dong Guo, Xin Sheng, Ziyuan Ma, Joseph Park, Ha My T. Vy, Girish N. Nadkarni, Amin Abedini, Zhen Miao, Matthew Palmer, Benjamin F. Voight, Hongzhe Li, Christopher D. Brown, Marylyn D. Ritchie, Yan Shu and Katalin Susztak</i></p>
+        <p><i>Nature Genetics 54, 950–962 (2022)</i></p>
+    </td><!-- comment -->
+
+<!--    <td valign="bottom"><div<a href="https://plu.mx/plum/a/?doi=10.1038%2Fs41588-022-01097-w" data-popup="bottom" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true"></a></div>
+    </td>-->
+    
+    <td valign="bottom"><div class="altmetric-embed" data-badge-popover="bottom" data-badge-type="donut" data-altmetric-id="129787922"></div>
+    </td>
+ </tr>
+ </table>
+
+<p></p>
+<p></p>
+<p></p><hr />
+<p></p>
+<p></p>
+<p>Link to the paper: <a href="https://www.nature.com/articles/s41588-022-01097-w" target="_blank"><i>Liu, H. et al.</i>, <i>Nature Genetics</i>, 2022</a></p>
+<p></p>
+<p>Supplementary Data: <a href="https://static-content.springer.com/esm/art%3A10.1038%2Fs41588-022-01097-w/MediaObjects/41588_2022_1097_MOESM4_ESM.xlsx" target="_blank"><i>Nature Genetics</i></a> | <a href="https://doi.org/10.6084/m9.figshare.15183495" target="_blank"><i>figshare</i></a></p>
+<p></p>
+<p>Sequencing data on GEO database: <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200547" target="_blank"><i>GSE200547</i></a> | <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE172008" target="_blank"><i>GSE172008</i></a></p>
+<p></p>
+<p>Customized code used in this study: <a href="https://github.com/hbliu/Kidney_Epi_Pri" target="_blank"><i>Github</i></a></p>
+
+<p></p>
+<p></p>
+<p></p><hr />
+<video width="1160" autoplay muted>
+  <source src="image/NG_Paper.mp4" type="video/mp4">
+</video>
+
+</div>
+
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Team work as always. Many thanks to my great mentor <a href="https://twitter.com/KSusztak?ref_src=twsrc%5Etfw">@KSusztak</a> and talented collaborators!<br>Hope everyone enjoy reading it! <a href="https://t.co/jYxREFeDYe">https://t.co/jYxREFeDYe</a></p>&mdash; Hongbo Liu (@Hongbo919Liu) <a href="https://twitter.com/Hongbo919Liu/status/1537473379418066944?ref_src=twsrc%5Etfw">June 16, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
