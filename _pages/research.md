@@ -31,7 +31,7 @@ Epigenetic regulation of complex human diseases
 Epigenetic dynamics in mammalian development
 ------
 
-| DNA methylation and histone modification undergo dynamics during mammalian development (Liu et al. 2014 [Database](https://academic.oup.com/database/article/doi/10.1093/database/bat084/2633757); Liu et al. 2013 [Sci. Rep.](https://www.nature.com/articles/srep02576)). Using knockout mice of <em>Dnmt3a/b<em>, we demonstrated essential roles of DNA methylation in decommissioned fetal enhancers linking to kidney disease (Guan, Liu et al. 2020 [JASN](https://jasn.asnjournals.org/content/31/4/765); Liu et al. In preparation). These studies highlighted locus-specific convergence of genetic, epigenetic, and developmental elements in disease development. | [<img src="/images/pubfig/JASN2020.jpg">](https://jasn.asnjournals.org/content/31/4/765) | 
+| Epigenetic marking systems confer precise regulation of gene expression during mammalian development. DNA methylation and histone modification undergo dynamics during mammalian development (Liu et al. 2014 [Database](https://academic.oup.com/database/article/doi/10.1093/database/bat084/2633757); Liu et al. 2013 [Sci. Rep.](https://www.nature.com/articles/srep02576)). Using knockout mice of <em>Dnmt3a/b<em>, we demonstrated essential roles of DNA methylation in decommissioned fetal enhancers linking to kidney disease (Guan, Liu et al. 2020 [JASN](https://jasn.asnjournals.org/content/31/4/765); Liu et al. In preparation). These studies highlighted locus-specific convergence of genetic, epigenetic, and developmental elements in disease development. | [<img src="/images/pubfig/JASN2020.jpg">](https://jasn.asnjournals.org/content/31/4/765) | 
 
 
 Cellular origins of complex human diseases
