@@ -24,11 +24,11 @@ Education and Training
 Work experience
 ======
 * Oct 2015: Associate Professor
-  * Harbin Medical University
+  * College of Bioinformatics Science and Technology, Harbin Medical University
   * Duties included: Teaching and Mentoring
 
 * Sep 2010: Assistant Professor
-  * Harbin Medical University
+  * College of Bioinformatics Science and Technology, Harbin Medical University
   * Duties included: Teaching and Mentoring
   
 Research interests
