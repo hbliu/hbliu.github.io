@@ -31,5 +31,6 @@ Hongbo Liu, Tomohito Doke, Dong Guo, Xin Sheng, Ziyuan Ma, Joseph Park, Ha My T 
   
 For more information: [Paper](https://www.nature.com/articles/s41588-022-01097-w); [Research Briefing](https://www.nature.com/articles/s41588-022-01098-9);  [Research Highlight](https://www.kidney-international.org/article/S0085-2538(22)00903-6/fulltext); [GWAS](https://susztaklab.com/GWAS/index.php); [eQTL](http://www.susztaklab.com/Kidney_eQTL/index.php); [meQTL](http://www.susztaklab.com/Kidney_meQTL/index.php); [snATAC-seq](http://www.susztaklab.com/Human_snATAC/index.php); [Github](https://github.com/hbliu/Kidney_Epi_Pri)
 
-https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4
+[![Watch the video](images/NGVideo.png)]([https://youtu.be/vt5fpE0bzSY](https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4))
+
 
