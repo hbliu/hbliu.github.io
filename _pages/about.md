@@ -33,7 +33,7 @@ For more information: [Paper](https://www.nature.com/articles/s41588-022-01097-w
 
 <html>
 <body>
-<video src="https://youtu.be/vt5fpE0bzSY](https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4" controls="controls" style="max-width: 730px;">
+<video src="https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4" controls="controls" style="max-width: 730px;">
 </video>
 </body>
 </html>
