@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2016-spring-teaching-1
 venue: "Harbin Medical University, College of Bioinformatics Science and Technology"
-date: 2016-03-01
+date: 2016-04-01
 location: "Harbin, China"
 ---
 
