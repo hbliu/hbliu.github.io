@@ -27,6 +27,15 @@ News
 ======
 In the latest study, I performed a comprehensive mapping of genetic architecture of kidney disease by integrating genomic analysis of GWAS (N=1.5 million), kidney eQTL (N=686), meQTL (N=443), snATACseq (N=60K cells), coloc, moloc, SMR, pheWAS. I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes.
 <html>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-4JQYM0KW3W"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-4JQYM0KW3W');
+</script>
 <body>
 <video src="https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4" loop="true" autoplay="autoplay" controls="controls" style="max-width: 730px;" muted>
 </video>
