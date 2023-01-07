@@ -82,6 +82,6 @@ Mentoring experience
 * Shanshan Zhang (undergraduate), 2015 - 2016 (Now: Graduate student at Case Western Reserve University [Link](https://jinlabgenomics.com/People/))
 * Shipeng Shang (undergraduate), 2014 - 2015 (Now: Assistant professor at Qingdao University [Link](http://qdbms.qdu.edu.cn/info/1070/3717.htm))
 * Yunzhen Wei (undergraduate), 2013 - 2014 (Now: Assistant professor at Guangdong Medical University)
-* Rangfei Zhu (undergraduate), 2012 - 2014 (Now: CEO of Hangzhou Mugu Technology Co., Ltd [Link](http://sangerbox.com/index.html))
+* Rangfei Zhu (undergraduate), 2012 - 2014 (Now: CEO of Hangzhou Mugu Technology Co., Ltd [Link](https://github.com/biocn))
 
 
