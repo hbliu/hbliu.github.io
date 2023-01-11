@@ -19,7 +19,7 @@ Research interests
 ======
 * Population Genetics
 * Epigenetic Regulation
-* Single cell Omics
+* Single Cell Omics
 * Complex Human Diseases
 
 
