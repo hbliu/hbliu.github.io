@@ -36,7 +36,7 @@ Research interests
 * Population Genetics
 * Epigenetic Regulation
 * Single cell Omics
-* Complex Human Diseases
+* Age-Related  Diseases
 
 Selected Publications
 ======
