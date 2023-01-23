@@ -10,9 +10,8 @@ redirect_from:
 <base target="_blank">
 
 I am a postdoctoral fellow in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
-Since 2007, my research has mainly focused on the genomics and epigenomics of complex human diseases by developing scalable machine-learning methods and integrating 
-multimodal genomic and epigenomic data. A central objective of my study is to understand the genetic basis and epigenetic regulation of complex human diseases, 
-by integrating genome-wide association studies with transcriptomic and epigenomic analyses. 
+Since 2007, my research has mainly focused on the genomics and epigenomics of age-related chronic diseases by developing scalable machine-learning methods and integrating 
+multimodal genomic and epigenomic data. A central objective of my study is to identify disease-causal genes and understand their genetic and epigenetic regulation mechanisms, by integrating population genetic studies with transcriptomic and epigenomic analyses.
 These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
 
 Research interests
@@ -20,7 +19,7 @@ Research interests
 * Population Genetics
 * Epigenetic Regulation
 * Single Cell Omics
-* Complex Human Diseases
+* Age-Related Chronic Diseases
 
 
 News
