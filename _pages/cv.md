@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<base target="_blank">
+#<base target="_blank">
 
 
 {% include base_path %}
