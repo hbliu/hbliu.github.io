@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<base target="_blank">
+#<base target="_blank">
 
 I am a postdoctoral fellow in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
 Since 2007, my research has mainly focused on the genomics and epigenomics of age-related chronic diseases by developing scalable machine-learning methods and integrating 
