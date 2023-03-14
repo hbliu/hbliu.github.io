@@ -4,7 +4,7 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-<base target="_blank">
+#<base target="_blank">
 <style scoped>
 table, th, td {
   font-size: 18px;
