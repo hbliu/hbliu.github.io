@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-#<base target="_blank">
+<base target="_self">
 
 You can also find an up-to-data list of publications on my [Google Scholar profile](https://scholar.google.com/citations?hl=en✉user=sM-dRkIAAAAJ✉view_op=list_works✉sortby=pubdate)
 
