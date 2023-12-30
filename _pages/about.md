@@ -27,14 +27,11 @@ Research interests
 
 News
 ======
-Starting in March 2024, I'll be leading my own lab at the University of Rochester as an Assistant Professor. 
+* Starting in March 2024, I'll be leading my own lab at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.
 
-The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases. 
+* We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.
 
-We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.
-
-
-In the latest study, I performed a comprehensive mapping of genetic architecture of kidney disease by integrating genomic analysis of GWAS (N=1.5 million), kidney eQTL (N=686), meQTL (N=443), snATACseq (N=60K cells), coloc, moloc, SMR, pheWAS. I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes.
+* In the latest study, I performed a comprehensive mapping of genetic architecture of kidney disease by integrating genomic analysis of GWAS (N=1.5 million), kidney eQTL (N=686), meQTL (N=443), snATACseq (N=60K cells), coloc, moloc, SMR, pheWAS. I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes.
 <html>
 <body>
 <video src="https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4" loop="true" autoplay="autoplay" controls="controls" style="max-width: 730px;" muted>
