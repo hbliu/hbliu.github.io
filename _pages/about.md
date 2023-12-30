@@ -9,12 +9,7 @@ redirect_from:
 ---
 <base target="_self">
 
-Now, I am a Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
-
-Since 2007, my research has mainly focused on the genomics and epigenomics of age-related chronic diseases by developing scalable machine-learning methods and integrating 
-multimodal genomic and epigenomic data. A central objective of my study is to identify disease-causal genes and understand their genetic and epigenetic regulation mechanisms, by integrating population genetic studies with transcriptomic and epigenomic analyses.
-These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
-
+I am a Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania. Starting in March 2024, I'll be leading [my own lab](https://hbliulab.org/) at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.
 
 Research interests
 ======
@@ -28,7 +23,7 @@ Research interests
 News
 ======
 
-* <span style='color:blue'>01/01/2024: Starting in March 2024, I'll be leading my own lab at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.</span>
+* <span style='color:blue'>01/01/2024: Starting in March 2024, I'll be leading [my own lab](https://hbliulab.org/) at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.</span>
 
 * <span style="color:blue">01/01/2024: We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.</span>
 
