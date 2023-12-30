@@ -27,7 +27,13 @@ Research interests
 
 News
 ======
-Starting in March 2024, I'll be leading my own lab at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases. We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.
+Starting in March 2024, I'll be leading my own lab at the University of Rochester as an Assistant Professor. 
+------
+
+The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases. 
+------
+
+We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.
 ------
 
 
