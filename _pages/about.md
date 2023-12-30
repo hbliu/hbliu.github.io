@@ -10,9 +10,13 @@ redirect_from:
 <base target="_self">
 
 I am a Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania.
+
 Since 2007, my research has mainly focused on the genomics and epigenomics of age-related chronic diseases by developing scalable machine-learning methods and integrating 
 multimodal genomic and epigenomic data. A central objective of my study is to identify disease-causal genes and understand their genetic and epigenetic regulation mechanisms, by integrating population genetic studies with transcriptomic and epigenomic analyses.
 These studies have answered population genetic questions about epigenome-mediated heritability and causal gene prioritization via epigenome.
+
+In March 2024, I will start my independent lab as a Assistant Professor in the University of Rochester. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases. If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.
+======
 
 Research interests
 ======
