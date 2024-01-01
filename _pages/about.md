@@ -31,12 +31,14 @@ News
 
 
 * 08/16/2022: In the latest study, I performed a comprehensive mapping of genetic architecture of kidney disease by integrating genomic analysis of GWAS (N=1.5 million), kidney eQTL (N=686), meQTL (N=443), snATACseq (N=60K cells), coloc, moloc, SMR, pheWAS. I proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes.
-#<html>
-#<body>
-#<video src="https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4" loop="true" autoplay="autoplay" controls="controls" style="max-width: 730px;" muted>
-#</video>
-#</body>
-#</html>
+<! --
+<html>
+<body>
+<video src="https://user-images.githubusercontent.com/2704756/210302639-8c4e8317-89e5-4a24-8160-dfe5bfb5d59d.mp4" loop="true" autoplay="autoplay" controls="controls" style="max-width: 730px;" muted>
+</video>
+</body>
+</html>
+-->
 
 Hongbo Liu, Tomohito Doke, Dong Guo, Xin Sheng, Ziyuan Ma, Joseph Park, Ha My T Vy, Girish N Nadkarni, Amin Abedini, Zhen Miao, Matthew Palmer, Benjamin F Voight, Hongzhe Li, Christopher D Brown, Marylyn D Ritchie, Yan Shu, Katalin Susztak✉️ (2022) [Epigenomic and transcriptomic analyses define core cell types, genes and targetable mechanisms for kidney disease](https://www.nature.com/articles/s41588-022-01097-w). Nature Genetics, 54(7):950–962. 
   
