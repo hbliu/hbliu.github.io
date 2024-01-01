@@ -9,7 +9,9 @@ redirect_from:
 ---
 <base target="_self">
 
-I am a Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania. Starting in March 2024, I'll be leading [my own lab](https://hbliulab.org/) at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.
+I am a Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the University of Pennsylvania. 
+
+Starting in March 2024, I'll be leading [my own lab](https://hbliulab.org/) at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.
 
 Research interests
 ======
