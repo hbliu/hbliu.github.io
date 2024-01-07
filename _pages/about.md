@@ -27,7 +27,7 @@ News
 
 * <span style='color:blue'>01/01/2024: Starting in March 2024, I'll be leading [my own lab](https://hbliulab.org/) at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.</span>
 
-* <span style="color:blue">01/01/2024: We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (hongbo919@gmail.com) including your CV and a brief Research Statement with your background and interests.</span>
+* <span style="color:blue">01/01/2024: We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (Hongbo_Liu@URMC.Rochester.edu) including your CV and a brief Research Statement with your background and interests.</span>
 
 
 * 08/16/2022: Our new study is published in Nature Genetics. In this study, We performed a comprehensive mapping of genetic architecture of kidney disease by integrating genomic analysis of GWAS (N=1.5 million), kidney eQTL (N=686), meQTL (N=443), snATACseq (N=60K cells), coloc, moloc, SMR, pheWAS. We proposed a multi-stage prioritization strategy and prioritized >500 kidney disease genes.
