@@ -11,7 +11,7 @@ redirect_from:
 
 Starting in March 2024, I have begun my new position at the [University of Rochester](https://www.rochester.edu) as an Assistant Professor, leading a lab ([website](https://hbliulab.org/)) focusing on the functional genome in aging and age-related diseases.
 
-Since 2018, I am a Postdoc and Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the [University of Pennsylvania](https://www.upenn.edu). 
+Before joining URMC, I obtained training as a Postdoc and Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the [University of Pennsylvania](https://www.upenn.edu). 
 
 
 
