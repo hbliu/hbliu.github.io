@@ -9,7 +9,7 @@ redirect_from:
 ---
 <base target="_self">
 
-Starting in March 2024, I have started my new position at the [University of Rochester](https://www.rochester.edu) as an Assistant Professor, leading a lab ([website](https://hbliulab.org/)) focusing on the functional genome in aging and age-related diseases.
+Starting in March 2024, I have begun my new position at the [University of Rochester](https://www.rochester.edu) as an Assistant Professor, leading a lab ([website](https://hbliulab.org/)) focusing on the functional genome in aging and age-related diseases.
 
 Since 2018, I am a Postdoc and Research Associate in [Susztak Lab](https://www.med.upenn.edu/susztaklab) in the Departments of Genetics and Medicine at the [University of Pennsylvania](https://www.upenn.edu). 
 
@@ -27,7 +27,7 @@ Research interests
 News
 ======
 
-* <span style='color:blue'>01/01/2024: Starting in March 2024, I'll be leading [my own lab](https://hbliulab.org/) at the University of Rochester as an Assistant Professor. The research in my lab will focus on decoding the functional genome's role in aging and age-related diseases.</span>
+* <span style='color:blue'>01/01/2024: Liu lab ([website](https://hbliulab.org/)) officially launches at the University of Rochester, with multiple Positions available. Welcome to join! :)</span>
 
 * <span style="color:blue">01/01/2024: We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (Hongbo_Liu@URMC.Rochester.edu) including your CV and a brief Research Statement with your background and interests.</span>
 
