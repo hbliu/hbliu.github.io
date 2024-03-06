@@ -15,8 +15,6 @@ For the full list of academic achievements, please download my [CV](../files/Cur
 
 Education and Training
 ======
-* Assistant Professor @ [University of Rochester Medical Center](https://www.urmc.rochester.edu), University of Rochester, 2024
-* Research Associate in Regulatory Genomics of Kidney Disease @ [Susztak Lab](https://www.med.upenn.edu/susztaklab/), University of Pennsylvania, 2023
 * Postdoc Fellow in Regulatory Genomics of Kidney Disease @ [Susztak Lab](https://www.med.upenn.edu/susztaklab/), University of Pennsylvania, 2018
 * Postdoc Fellow in Epigenomics of Cancer @ [Shen Lab](https://shenlab.vai.org/), Van Andel Institute, 2016
 * Ph.D in Biomedical Engineering (Developmental Biology) @ [Wu Lab](http://life.hit.edu.cn/2021/0820/c6171a259101/page.htm), Harbin Institute of Technology, 2015
