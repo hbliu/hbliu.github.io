@@ -27,7 +27,7 @@ Research interests
 News
 ======
 
-* <span style='color:blue'>01/01/2024: Liu lab ([website](https://hbliulab.org/)) officially launches at the University of Rochester, with multiple Positions available. Welcome to join! :)</span>
+* <span style='color:blue'>03/01/2024: Liu lab ([website](https://hbliulab.org/)) officially launches at the University of Rochester, with multiple Positions available. Welcome to join! :)</span>
 
 * <span style="color:blue">01/01/2024: We are actively seeking talented and passionate postdoctoral researchers (Computational Biology and Molecular Biology). If interested please send an email to Hongbo Liu (Hongbo_Liu@URMC.Rochester.edu) including your CV and a brief Research Statement with your background and interests.</span>
 
