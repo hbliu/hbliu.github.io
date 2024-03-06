@@ -24,9 +24,9 @@ Education and Training
 Work experience
 ======
 * Mar 2024: Assistant Professor
-  *University of Rochester Medical Center, University of Rochester
+  * University of Rochester Medical Center, University of Rochester
   * Duties included: Teaching and Mentoring
-  * 
+    
 * Aug 2023: Research Associate
   *Department of Genetics and Medicine, University of Pennsylvania
   * Duties included: Research
