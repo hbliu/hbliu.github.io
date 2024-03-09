@@ -28,7 +28,7 @@ Work experience
   * Duties included: Teaching and Mentoring
     
 * Aug 2023: Research Associate
-  *Department of Genetics and Medicine, University of Pennsylvania
+  * Department of Genetics and Medicine, University of Pennsylvania
   * Duties included: Research
 
 * Oct 2015: Associate Professor
